@@ -1,4 +1,3 @@
-import random
 
 
 def find_sequence_in_list(list_to_check, values):
