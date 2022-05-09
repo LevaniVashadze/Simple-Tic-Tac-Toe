@@ -3,4 +3,8 @@ Simple text based tic-tac-toe
 ade with Python.
 
 Here is how it works:
-![Alt Text](https://user-images.githubusercontent.com/100613979/167394172-a0a72dc1-41a0-4b0c-8402-0681be26620e.gif)
+![Alt Text](https://user-images.githubusercontent.com/100613979/167397049-154240bf-8a67-4792-9d0c-3757a41a7ca4.mov)
+
+
+
+
