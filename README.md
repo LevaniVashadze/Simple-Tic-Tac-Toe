@@ -1,3 +1,6 @@
 # Simple-Tic-Tac-Toe
-Simple text based tic-tac-toe made with Python.
-The approach wasn't the best but worked in the end. Tough it created a bit of a mess and made me some challenges.
+Simple text based tic-tac-toe
+ade with Python.
+
+Here is how it works:
+![Alt Text](https://user-images.githubusercontent.com/100613979/167394172-a0a72dc1-41a0-4b0c-8402-0681be26620e.gif)
